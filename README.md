@@ -1,6 +1,6 @@
 # Screen Swap
 
-Screen Swap is a no-window macOS utility for the Mac Assistant menu. Launching it moves each visible app window to the next connected display, preserving its relative position on that display. With two displays this swaps windows between screens; with three or more it rotates windows left-to-right and wraps the rightmost display back to the first.
+Screen Swap is a no-window macOS utility for the MacEntire menu bar app. Launching it moves each visible app window to the next connected display, preserving its relative position on that display. With two displays this swaps windows between screens; with three or more it rotates windows left-to-right and wraps the rightmost display back to the first.
 
 Screen Swap uses macOS Accessibility APIs to move other apps' windows. On first launch, macOS may ask for Accessibility permission. Enable Screen Swap in System Settings > Privacy & Security > Accessibility, then run it again.
 
